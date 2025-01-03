@@ -38,6 +38,6 @@ function reportmenu() {
 	if (x4.style.display === "none") {
 		x4.style.display = "block";
 	} else {
-		x4.style.display = "none";
+		x4.style.display = "none"; // i might have fixed it 
 	}
 }
