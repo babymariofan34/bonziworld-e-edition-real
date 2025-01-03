@@ -363,7 +363,7 @@ body.side-bar-visible #room_background_wrapper  {
     left: 50%;
 }
 body  {
-    background-color: #421f60;
+    background-color: #7dcc66;
 }
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video  {
     margin: 0;
@@ -666,7 +666,7 @@ body.vaporwave #chat_send:active  {
     background-position: 0 -56px;
 }
 #content  {
-    background-color: #6d33a0;
+    background-color: #86ff82;
     background-image: url("../../img/desktop/logo.png"), url("../../img/desktop/bonzi.png");
     background-position: top left, center;
     background-repeat: no-repeat;
@@ -754,7 +754,7 @@ body.vaporwave #chat_send:active  {
     background-image: url("../../img/desktop/tile.png");
 }
 #page_login  {
-    background-color: #598bdb;
+    background-color: #89db59;
     background-image: url("../../img/logon/logo.png"), url("../../img/logon/top.png"), url("../../img/logon/bottom.png"), url("../../img/logon/topleft.png"), url("../../img/logon/divider.png");
     background-position: center, top, bottom, top left, center;
     background-size: auto, 100% 100px, 100% 122px, auto, 1px 100%;
@@ -1079,7 +1079,7 @@ body.banned #page_login, body.kicked #page_login  {
     top: 0px;
     height: 100%;
     width: 100%;
-    background: rgba(142, 68, 173, 0.4);
+    background: rgba(101, 173, 68, 0.4);
     filter: blur(2px);
     -webkit-filter: blur(2px);
     backdrop-filter: blur(2px);
